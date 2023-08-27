@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Υ.</title>
+  
+  
+  <link href="https://www.iant.one/atom.xml" rel="self"/>
+  
+  <link href="https://www.iant.one/"/>
+  <updated>2023-08-27T07:12:50.485Z</updated>
+  <id>https://www.iant.one/</id>
+  
+  <author>
+    <name>Υ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Site created</title>
+    <link href="https://www.iant.one/site_created/"/>
+    <id>https://www.iant.one/site_created/</id>
+    <published>2023-08-24T00:00:00.000Z</published>
+    <updated>2023-08-27T07:12:50.485Z</updated>
+    
+    <content type="html"><![CDATA[<p>Site created on 24&#x2F;8&#x2F;2023. <img src="https://www.iant.one/y.ico" width="18px"> </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Site created on 24&amp;#x2F;8&amp;#x2F;2023. &lt;img src=&quot;https://www.iant.one/y.ico&quot; width=&quot;18px&quot;&gt; &lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
